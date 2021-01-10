@@ -1,14 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'License agreement';
+$_['heading_title'] = 'Лицензионное соглашение';
 
 // Text
-$_['text_step_1']   = 'Please read the OpenCart licence agreement';
-$_['text_terms']    = '<h3>GNU GENERAL PUBLIC LICENSE</h3>
-<p>Version 3, 29 June 2007</p>
-<p>Copyright &copy; 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
-<p> Everyone is permitted to copy and distribute verbatim copies
-  of this license document, but changing it is not allowed.</p>
+$_['text_step_1']   = 'Пожалуйста, прочтите лицензионное соглашение OpenCart';
+$_['text_terms']    = '<h3>ОБЩАЯ ОБЩЕСТВЕННАЯ ЛИЦЕНЗИЯ GNU</h3>
+<p>Версия 3, 29 июня 2007 г.</p>
+<p>Авторские права &copy; 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
+<p>Каждому разрешается копировать и распространять дословные копии этого лицензионного документа, но изменять его не разрешается.</p>
 <h3><a name="preamble"></a>Preamble</h3>
 <p>The GNU General Public License is a free, copyleft license for
   software and other kinds of works.</p>
