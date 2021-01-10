@@ -4,10 +4,10 @@
 ## Описание
 
 ### Переведены папки:
-* `admin/*`
-* `catalog/*`
-* `extension/opencart/*`
-* `install/*` (так же переведен `install/opencart.sql`)
+* `admin/*` *(в процессе)*
+* `catalog/*` *(в процессе)*
+* `extension/opencart/*` *(в процессе)*
+* `install/*` (так же переведен `install/opencart.sql`) *(в процессе)*
 
 ## Установка
 
